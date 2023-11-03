@@ -49,14 +49,14 @@ body {
   text-align: center;
 }
 .scope-txt img {
-  width: 452px;
+  width: 420px;
   margin-top: -20px;
-  margin-left: 30px;
 }
 @media (max-width: 900px) {
   .scope-txt img {
-    width: 60%;
-    margin-top: -10px;
+    margin-left: 0px;
+    width: 55%;
+    margin-top: -0px;
   }
   .center {
     width: 60%;
